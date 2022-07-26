@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainbox{
+    height: 40%;
+}
+.logopositano{
+    background-color: #1f1d1d;
+    text-align: center;
+}
+
+.greencursive{
+    margin: 15px;
+}
+
+.navbar{
+    background-color:#1f1d1d;
+    color: #31d1bc;
+}
+
+.nav-link:hover{
+    color: #31d1bc !important;
+}
+
+.navbar-brand:hover{
+    color: #31d1bc !important;
+}
+
+.sit{
+    background-color: #1f1d1d;
+}
+
+
+.d-block{
+    height: 70%;
+    position: relative;
+}
+
+.carousel-item{
+    position: relative;
+}
+
+
+.under{
+    background-color: #1f1d1d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.social{
+    color:#31d1bc;
+    padding: 30px;
+    font-size: 60px;
+}
+
+
+.social:hover{
+    color: #a411b8;
+}
+
+
+
+@media only screen and (max-width: 720px){
+    .social{
+        font-size: 30px;
+        padding: 20px;
+    }
+}    
+
+
+

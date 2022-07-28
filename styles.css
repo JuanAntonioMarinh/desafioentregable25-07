@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap');
+
+
+
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box !important;
 }
 
 .mainbox{
@@ -29,19 +33,19 @@
     color: #31d1bc !important;
 }
 
-.sit{
+.positanoimgs{
+    background-color: #1f1d1d;
+}
+
+.cannabisgal{
+    background-color: #1f1d1d;
+}
+
+.index-imgs{
     background-color: #1f1d1d;
 }
 
 
-.d-block{
-    height: 70%;
-    position: relative;
-}
-
-.carousel-item{
-    position: relative;
-}
 
 
 .under{
